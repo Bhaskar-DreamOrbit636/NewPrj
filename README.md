@@ -1,2 +1,2 @@
 # NewPrj
-For test purpose this one use
+For new purpose this one use
